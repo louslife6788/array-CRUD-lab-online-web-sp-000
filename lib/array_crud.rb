@@ -3,7 +3,7 @@ def create_an_empty_array
   return y
 end
 
-def create_an_array(x)
+def create_an_array
   y = [x]
   return y
 end
