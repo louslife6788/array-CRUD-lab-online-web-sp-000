@@ -3,8 +3,9 @@ def create_an_empty_array(x)
   return y
 end
 
-def create_an_array
-
+def create_an_array(x)
+  y = [x]
+  return y
 end
 
 def add_element_to_end_of_array(array, element)
