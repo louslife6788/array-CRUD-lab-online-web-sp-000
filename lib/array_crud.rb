@@ -1,5 +1,5 @@
-def create_an_empty_array(x)
-  y = [x]
+def create_an_empty_array
+  y = Array.new
   return y
 end
 
